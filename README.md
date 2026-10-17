@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Alpha-2-git/Alpha-2-git/main/Alpha-2-Git%20Cybertech%20Developer%20Banner.png" alt="ALPHA-2-GIT Cybertech Developer Banner" width="100%" />
+
+
 # ⚡ ALPHA-2-GIT
 
 ### AI Assistant Development • Software Engineering • Cybersecurity Learning
